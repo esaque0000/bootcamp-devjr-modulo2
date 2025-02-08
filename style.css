@@ -1,10 +1,4 @@
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body{
 
 background-color: #F5F5F5;
@@ -114,9 +108,6 @@ button:hover{
 
 
 .list-head{
-    padding: 20px 0 20px 15px;
+    padding: 15px 0px 15px 0px;
 }
 
-ul{
-    padding-left: 55px;
-}
