@@ -123,8 +123,8 @@ input:focus{
 
 }
 .name, .email{
-    font-size: 20px;
-    padding: 10px;
+    font-size: 1.25rem;
+    padding: 0.62rem;
     border-radius: 5px;
     border: 0;
     
@@ -135,12 +135,12 @@ input:focus{
 .links{
     display: flex;
     flex-direction: column;
-    padding-top: 25px;
+    padding-top: 1.56rem;
     text-align: center;
 }
 
 .return{
-    padding-top: 5px;
+    padding-top: 0.31rem;
     color: #FFF;
 
 }
